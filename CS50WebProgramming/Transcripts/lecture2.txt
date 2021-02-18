@@ -1,0 +1,4 @@
+Video:
+https://www.youtube.com/watch?v=EOLPQdVj5Ac&feature=youtu.be
+notes:
+https://cs50.harvard.edu/web/2020/notes/2/
