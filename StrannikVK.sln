@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		index.html = index.html
 	EndProjectSection
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CS50WebProgramming", "..\CS50WebProgramming\CS50WebProgramming.pyproj", "{190E1B0A-F815-488A-A5A0-52FF154F823D}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CS50WebProgramming", "CS50WebProgramming\CS50WebProgramming.pyproj", "{190E1B0A-F815-488A-A5A0-52FF154F823D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
