@@ -77,3 +77,21 @@ class hello(object):
     name = "Harry"
     for char in name:
         print(char)
+    names.append("Draco")
+    print(names)
+    names.sort()
+    print(names)
+    # Create an empty set
+    # sets will store only uniqe objects
+    s=set()
+    # Add elements to set
+    s.add(1)
+    s.add(2)
+    s.add(1)
+    s.add("Draco")
+    print (s)
+    s.remove(1)
+    print(s)
+    print(f"The set has {len(s)} elements")
+    for i in [1,2,3,"Draco"]:
+        print(i)
